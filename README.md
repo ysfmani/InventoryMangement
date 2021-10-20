@@ -1,4 +1,6 @@
-# InventoryMangement
+# Projet fin d'année // End of year project
+Gestion du matériel informatique dans une société // Management of computer equipment in a company
+
 
 
 ![alt tag](https://github.com/ysfmani/InventoryMangement/blob/main/Annotation%202020-06-17%20231044.png)
